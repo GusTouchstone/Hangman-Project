@@ -1,0 +1,41 @@
+import random
+
+def choose_animal():
+    words = ["lion", "elephant", "tiger", "giraffe", "zebra"]
+    return random.choice(words)
+
+def choose_furniture():
+    words = ["chair", "table", "sofa", "bed", "desk"]
+    return random.choice(words)
+
+def choose_color():
+    words = ["red", "blue", "green", "yellow", "purple"]
+    return random.choice(words)
+
+def choose_horse():
+    words = ["Arabian", "Thoroughbred", "Quarter Horse", "Appaloosa", "Mustang"]
+    return random.choice(words)
+
+def choose_vegetable():
+    words = ["carrot", "potato", "tomato", "cucumber", "broccoli"]
+    return random.choice(words)
+
+def choose_country():
+    words = ["Argentina", "Japan", "Brazil", "India", "Australia"]
+    return random.choice(words)
+
+def choose_profession():
+    words = ["doctor", "teacher", "engineer", "chef", "musician"]
+    return random.choice(words)
+
+def choose_transportation():
+    words = ["car", "bicycle", "airplane", "train", "boat"]
+    return random.choice(words)
+
+def choose_sport():
+    words = ["soccer", "basketball", "tennis", "swimming", "golf"]
+    return random.choice(words)
+
+def choose_planet():
+    words = ["Mercury", "Venus", "Earth", "Mars", "Jupiter"]
+    return random.choice(words)
