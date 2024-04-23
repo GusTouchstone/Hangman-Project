@@ -7,12 +7,12 @@ Project Roadmap for Hangman Game:
 - [x] Clone Repository to GitHub Desktop and Upload Files to Visual Studio
 - [x] Run the Code and Identify Problems
 - [x] Analyze Code in Visual Studio and Leave Comments for Each Problem
-- [ ] Work on Each Problem and Find a Solution
 - [ ] Make Notes of Successful and Unsuccessful Changes
 
 - Sprint Assignment 2: 
 - [x] Make minor updates and add commit messages through GitHub Desktop
-- [x] Update Project Roadmap accordingly to reflect new changes and new project ideas 
+- [x] Update Project Roadmap accordingly to reflect new changes and new project ideas
+- [x] Add difficulty mod
 - [x] Commit at least 6 code changes of significant size with explanations given
 - [ ] Turn in Sprint #2 on D2L
 
