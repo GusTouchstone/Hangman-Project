@@ -1,0 +1,19 @@
+
+def hangman(difficulty):
+    # Define attempts based on difficulty
+    if difficulty == "easy":
+        attempts_left = 8
+    elif difficulty == "normal":
+        attempts_left = 7
+    elif difficulty == "hard":
+        attempts_left = 5
+    else:
+        print("Invalid difficulty level. Please choose 'easy', 'normal', or 'hard'.")
+        return
+
+
+
+#place at the end of code
+difficulty = input("Choose difficulty level (easy/normal/hard): ").lower()
+
+hangman(difficulty)
