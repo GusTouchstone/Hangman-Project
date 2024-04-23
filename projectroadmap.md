@@ -11,9 +11,9 @@ Project Roadmap for Hangman Game:
 - [ ] Make Notes of Successful and Unsuccessful Changes
 
 - Sprint Assignment 2: 
-- [ ] Make minor updates and add commit messages through GitHub Desktop
-- [ ] Update Project Roadmap accordingly to reflect new changes and new project ideas 
-- [ ] Commit at least 6 code changes of significant size with explanations given
+- [x] Make minor updates and add commit messages through GitHub Desktop
+- [x] Update Project Roadmap accordingly to reflect new changes and new project ideas 
+- [x] Commit at least 6 code changes of significant size with explanations given
 - [ ] Turn in Sprint #2 on D2L
 
 - Sprint Assignment 3:
